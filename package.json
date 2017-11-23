@@ -1,6 +1,6 @@
 {
   "name": "m4atolinear16",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "description": "conver .m4a to linear16. Assumed google speach api.",
   "main": "index.js",
   "scripts": {
@@ -9,9 +9,7 @@
   "author": "wh1tecat",
   "license": "MIT",
   "dependencies": {
-    "btoa": "^1.1.2",
     "fluent-ffmpeg": "^2.1.2",
-    "is-m4a": "^1.0.2",
-    "stream-buffers": "^3.0.1"
+    "is-m4a": "^1.0.2"
   }
 }
